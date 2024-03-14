@@ -1,5 +1,13 @@
 # [level 2] 영어 끝말잇기 - 12981 
 
+## 📝메모
+**Math.floor()** : 소수점 이하를 버림한다.<br>
+Math.ceil() : 소수점 이하를 올림한다.<br>
+Math.round() : 소수점 이하를 반올림한다.<br>
+
+**JS에서 마지막 문자열 가져오는 방법**<br>
+https://codechacha.com/ko/javascript-get-last-char-in-str/
+<br><br>
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12981) 
 
 ### 성능 요약
